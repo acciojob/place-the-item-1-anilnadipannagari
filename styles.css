@@ -2,4 +2,7 @@
   display: flex;
   
 }
+#holder{
+  felx-direction:repeat(2 200px, 200px);
+}
 /* Your CSS Code here. */
