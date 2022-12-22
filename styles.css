@@ -1,20 +1,37 @@
-*{
-    margin: 0%;
-}
-.container-fluid{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    flex-wrap:wrap;
-    row-gap: auto;
-    position: relative;
 
+#holder{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
-.box{
+.flex-box1{
     width: 100px;
     height:100px;
-    background-color: blue;
-   /* position: absolute; */
-   align-items: center;
+    background-color: rgb(218, 42, 180);
+    /* margin: 20px; */
+}
+.flex-box2{
+    width: 100px;
+    height:100px;
+    background-color: rgb(24, 228, 126);
+    /* margin: 20px; */
+}
+.flex-box3{
+    width: 100px;
+    height:100px;
+    background-color: rgb(224, 146, 29);
+    /* margin: 20px; */
+}
+.flex-box4{
+    width: 100px;
+    height:100px;
+    background-color: rgb(36, 151, 222);
+    /* margin: 20px; */
+}
+.flex-box5{
+    width: 100px;
+    height:100px;
+    background-color: rgb(104, 104, 159);
+    /* margin: 20px; */
 }
 /* Your CSS Code here. */
