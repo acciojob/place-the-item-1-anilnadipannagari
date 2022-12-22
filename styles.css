@@ -1,15 +1,13 @@
 
-/* 
-body{
-    display: flex;
-    justify-content: space-around;
+/* body{
+    display:flex;
+    justify-content: space-between;
     flex-wrap: wrap;
 } */
 .holder{
+    display:flex;
     height: 100vh;
-    background-color: antiquewhite;
-    display: flex;
-    justify-content: space-around;
+   justify-content: space-around;
     flex-wrap: wrap;
 }
 .flex-box1{
