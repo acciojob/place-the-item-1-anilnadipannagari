@@ -1,6 +1,13 @@
 
-
-#holder{
+/* 
+body{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+} */
+.holder{
+    height: 100vh;
+    background-color: antiquewhite;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
